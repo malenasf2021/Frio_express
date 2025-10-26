@@ -11,5 +11,5 @@
         <maven.compiler.target>23</maven.compiler.target>
         <exec.mainClass>com.mycompany.frioexpress.FrioExpress</exec.mainClass>
     </properties>
-    <name>Frio_Express</name>
+    <name>Frio_express</name>
 </project>
