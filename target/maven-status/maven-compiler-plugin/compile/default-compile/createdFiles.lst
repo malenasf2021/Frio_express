@@ -1,0 +1,5 @@
+modelo\Producto.class
+controlador\ProductoControlador.class
+modelo\Cliente.class
+modelo\Pedido.class
+com\mycompany\frioexpress\FrioExpress.class
